@@ -5,7 +5,7 @@ body {
   color: #111111;
 }
 
-h1, h2, h3, p, ul {
+h1, h2, h3, p, ul, blockquote {
   margin: 0px;
 }
 
@@ -29,3 +29,4 @@ img {
 img[src$=".jpg"] {
   border-radius: 4px;
 }
+
